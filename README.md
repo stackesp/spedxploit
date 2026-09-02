@@ -5,3 +5,6 @@ No injector or prebuilt DLL is included.
 
 ## note
 This is old research/compability code, not a supported exploit release. This was made solely for educational purposes and fun. Enjoy.
+
+<img width="840" height="454" alt="cheat" src="https://github.com/user-attachments/assets/21203151-e100-4370-971c-7fe0995037f4" />
+<img width="423" height="578" alt="image" src="https://github.com/user-attachments/assets/f9ae88bb-1009-4914-9baf-43c887f131f0" />
