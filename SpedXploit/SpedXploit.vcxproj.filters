@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup><Filter Include="Source Files"><UniqueIdentifier>{B0FE4BB2-07C0-4D1F-9B16-5EAD8173ED4F}</UniqueIdentifier></Filter><Filter Include="Source Files\spedxploit"><UniqueIdentifier>{E3582CDD-4DCB-46A2-9A9A-A8732A3A215A}</UniqueIdentifier></Filter></ItemGroup>
+  <ItemGroup><ClCompile Include="src\dllmain.cpp"><Filter>Source Files</Filter></ClCompile></ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\spedxploit\base.cpp"><Filter>Source Files\spedxploit</Filter></ClCompile>
+    <ClCompile Include="src\spedxploit\context.cpp"><Filter>Source Files\spedxploit</Filter></ClCompile>
+    <ClCompile Include="src\spedxploit\detour.cpp"><Filter>Source Files\spedxploit</Filter></ClCompile>
+    <ClCompile Include="src\spedxploit\scheduler.cpp"><Filter>Source Files\spedxploit</Filter></ClCompile>
+    <ClCompile Include="src\spedxploit\lua.cpp"><Filter>Source Files\spedxploit</Filter></ClCompile>
+    <ClCompile Include="src\spedxploit\bytecode.cpp"><Filter>Source Files\spedxploit</Filter></ClCompile>
+    <ClCompile Include="src\spedxploit\commands.cpp"><Filter>Source Files\spedxploit</Filter></ClCompile>
+    <ClCompile Include="src\spedxploit\files.cpp"><Filter>Source Files\spedxploit</Filter></ClCompile>
+    <ClCompile Include="src\spedxploit\gui.cpp"><Filter>Source Files\spedxploit</Filter></ClCompile>
+    <ClCompile Include="src\spedxploit\console.cpp"><Filter>Source Files\spedxploit</Filter></ClCompile>
+    <ClCompile Include="src\spedxploit\runtime.cpp"><Filter>Source Files\spedxploit</Filter></ClCompile>
+  </ItemGroup>
+</Project>
