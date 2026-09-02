@@ -1,9 +1,10 @@
 # spedxploit
-SpedXploit is a small archival x86 project for the 2015 Roblox client. The code is client-build specific and is not maintained for current Roblox, it was not made for live usage, just for the fun of it.
 
+SpedXploit is a small archival x86 project for the 2015 Roblox client. The code is client-build specific and is not maintained for current Roblox, it was not made for live usage, just for the fun of it.
 No injector or prebuilt DLL is included.
 
 ## note
+
 This is old research/compability code, not a supported exploit release. This was made solely for educational purposes and fun. Enjoy.
 
 <img width="840" height="454" alt="cheat" src="https://github.com/user-attachments/assets/21203151-e100-4370-971c-7fe0995037f4" />
