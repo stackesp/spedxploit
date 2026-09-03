@@ -15,6 +15,7 @@ static void ForEachPlayer(lua_State* L, const Target& t,
     const std::function<void(lua_State*)>& fn)
 {
     StackGuard g(L);   
+    // hey! this is garbage!
 
     
     if (!PushService(L, "Players")) {
